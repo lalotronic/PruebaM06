@@ -16,9 +16,9 @@ __REQUERIMIENTOS__
  en build.gradle.
  (2 Puntos)<br>
  <br>
- ***************************************************************<br>
+ ********************************************************************<br>
  Las app de : DEV, QA, PROD fueron generadas cuandos se firmaron<br>
- ***********************************************************<br><br>
+ ********************************************************************<br><br>
 
 <img src="https://github.com/lalotronic/PruebaM06/blob/main/foto.png" alt="foto" width="100%">
 
