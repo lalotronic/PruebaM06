@@ -18,6 +18,6 @@ __REQUERIMIENTOS__
  <br>
  ******************<br>
  Las app de : DEV, QA, PROD fueron generadas cuandos se firmaron<br>
- ******************<br>
+ ******************<br><br>
 
-<img src=" https://github.com/lalotronic/PruebaM06/blob/main/foto.png" alt="Front likeme" width="70%">
+<img src=" https://github.com/lalotronic/PruebaM06/blob/main/foto.png" alt="foto" width="70%">
